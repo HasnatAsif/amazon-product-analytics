@@ -27,5 +27,9 @@ This project focuses on cleaning raw Amazon product data using SQL and building 
 - Product Price & Rating Table
 
 ## Files Included
+- amazon_raw.csv
 - amazon_analytics.csv
 - Power BI dashboard screenshot
+
+## Data Source
+Public dataset sourced from Kaggle (used for educational and portfolio purposes).
